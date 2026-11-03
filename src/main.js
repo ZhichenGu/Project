@@ -1,4 +1,3 @@
-import './style.css';
 import {acts,createNarrative,doorTransition,tick} from './narrative.js';
 import {createScene} from './scene.js';
 import {ingredients,makeReceipt} from './receipts.js';

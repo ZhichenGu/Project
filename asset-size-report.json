@@ -1,0 +1,65 @@
+[
+  {
+    "file": "tomato-skin-albedo.webp",
+    "before": 2560803,
+    "after": 92014,
+    "size": [
+      768,
+      768
+    ]
+  },
+  {
+    "file": "meat-albedo.webp",
+    "before": 3244244,
+    "after": 266948,
+    "size": [
+      1024,
+      1024
+    ]
+  },
+  {
+    "file": "cabbage-leaf-albedo.webp",
+    "before": 2625007,
+    "after": 141154,
+    "size": [
+      1024,
+      1024
+    ]
+  },
+  {
+    "file": "eggshell-albedo.webp",
+    "before": 2282940,
+    "after": 15818,
+    "size": [
+      512,
+      512
+    ]
+  },
+  {
+    "file": "chicken-raw-albedo.webp",
+    "before": 2391891,
+    "after": 59700,
+    "size": [
+      768,
+      768
+    ]
+  },
+  {
+    "file": "spinach-leaf-albedo.webp",
+    "before": 2764435,
+    "after": 86388,
+    "size": [
+      768,
+      768
+    ]
+  },
+  {
+    "file": "cabbage-cut-albedo.webp",
+    "before": 2842669,
+    "after": 209732,
+    "size": [
+      1024,
+      1024
+    ]
+  }
+]
